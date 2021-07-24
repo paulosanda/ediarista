@@ -8,3 +8,4 @@ Adicionamente vou publicar o frontend REACT e também o código da app mobile em
 </p>
 <p>Sugiro usar em ambiente DEV o SAIL do Laravel.</p>
 <code>cd .vendor/bin/sail up</code>
+<p>No momento o banco de dados é o MySQL, porém irei mudar para SQLITE para efeitos de testes no HEROKU.
